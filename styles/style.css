@@ -375,8 +375,8 @@ opacity: 1;
     padding: 20px 30px;
     transition: .3s;
     width: 520px;
-    height: 240px;
-    box-sizing: content-box;
+    height: 340px;
+    box-sizing: border-box;
        overflow: hidden;
 
 
@@ -407,7 +407,7 @@ opacity: 1;
     height: 45px;
     position: relative;
     top: -140px;
-    left: 530px;
+    left: 430px;
     border-radius: 16px;
 }
 
@@ -573,4 +573,5 @@ letter-spacing: 0%;
 
 .triple .span{
     text-decoration: underline;
+
 }
